@@ -1,0 +1,23 @@
+.grid-cell {
+	border: 2px solid;
+	height: 100px;
+	margin: 1.5%;
+	background-color: grey;
+	color: blue;
+	text-align: center;
+	font-size: 30px
+}
+
+.container {
+	margin-left: 25%;
+}
+
+.hidden {
+	background-color: blue;
+	cursor: pointer;
+}
+
+.disable {
+	cursor: pointer;
+	pointer-events: none;
+}
